@@ -1,0 +1,1 @@
+const chatGptApiKey = "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";
